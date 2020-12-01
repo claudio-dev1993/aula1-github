@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class Program {
+public class ListaNomes {
 
 	public static void main(String[] args) {
 		
@@ -20,7 +20,9 @@ public class Program {
 			
 			System.out.println("Nomes inclusos :");
 			for(String x : list) {
+				
 				System.out.print("["+x+"]");
+
 			}
 			
 			System.out.println();
