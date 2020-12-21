@@ -1,4 +1,4 @@
-package entities;
+package entities.order;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
